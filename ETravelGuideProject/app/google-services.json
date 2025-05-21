@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "202842885874",
+    "firebase_url": "https://destinationdemoproject-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "destinationdemoproject",
+    "storage_bucket": "destinationdemoproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202842885874:android:67ed599823c113efd10a6b",
+        "android_client_info": {
+          "package_name": "com.example.etravelguideproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiT21gufITfIdZtkKulL6f1YbaSO4mp24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
